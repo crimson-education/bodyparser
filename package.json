@@ -1,6 +1,6 @@
 {
-  "name": "koa-bodyparser",
-  "version": "4.3.0",
+  "name": "@crimson-education/koa-bodyparser",
+  "version": "4.3.1",
   "description": "a body parser for Koa",
   "main": "index.js",
   "scripts": {
